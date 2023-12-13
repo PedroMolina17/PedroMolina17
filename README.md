@@ -1,4 +1,4 @@
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!--
+
 - 🔭 I’m currently looking for work
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on team
