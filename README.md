@@ -1,8 +1,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!--
-**PedroMolina17/PedroMolina17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently looking for work
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on team
