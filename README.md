@@ -1,5 +1,4 @@
-
-- I JUST WANT AN OPPORTUNITY
+I JUST WANT AN OPPORTUNITY
 - 🔭 I’m currently looking for work
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on team
