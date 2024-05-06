@@ -2,8 +2,8 @@
   <h1 align="center">Hola soy, <a href="https://pedro-molinanoa.vercel.app/">Pedro Molina</a></h1>
   <img src="https://i.pinimg.com/736x/ca/c1/46/cac1467f7ff2c5bd487ca610b71a5b4c.jpg"/>
 </div>
-
-<div style="margin-top: 100px;">
+<br> 
+<div >
   <ul>
     <li>🔭 I’m currently looking for work</li>
     <li>🌱 I’m currently learning Django</li>
