@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/736x/ca/c1/46/cac1467f7ff2c5bd487ca610b71a5b4c.jpg"/>
 </div>
 
-<ul  style="margin-top: 20px">
+<ul  style="margin-top: 100px">
   <li>🔭 I’m currently looking for work</li>
   <li>🌱 I’m currently learning Django</li>
   <li>👯 I’m looking to collaborate on team</li>
