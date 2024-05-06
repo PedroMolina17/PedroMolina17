@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola soy, <a href="https://pedro-molinanoa.vercel.app/">Pedro Molina</a></h1>
-  <img src="https://photos.google.com/share/AF1QipMovTxbeHFpBdSZFnK63cOgY3BRBqTghkrzdWUNdOMvYQxUmO8omjIw5wjFZ1rKCA/photo/AF1QipMX6RpLunfCzvApOSsSnnmfZuq0Ogi1692_gxqe?key=UVBERV9ZbXJLWUd5WXBSWlFiTkVaNmJtY3FkdlVn"/>
+  <img src="https://i.pinimg.com/736x/a3/1c/03/a31c030c5a7692a90a27d8f1e26873ab.jpg"/>
 </div>
 
 - 🔭 I’m currently looking for work
