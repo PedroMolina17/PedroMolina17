@@ -3,10 +3,11 @@
   <img src="https://i.pinimg.com/736x/ca/c1/46/cac1467f7ff2c5bd487ca610b71a5b4c.jpg"/>
 </div>
 
-- 🔭 I’m currently looking for work
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on team
--->
+<ul  style="margin-top: 20px">
+  <li>🔭 I’m currently looking for work</li>
+  <li>🌱 I’m currently learning Django</li>
+  <li>👯 I’m looking to collaborate on team</li>
+</ul>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pedro.molinanoa.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-molina-noa-a18aa91b9) 
