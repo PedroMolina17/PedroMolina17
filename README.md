@@ -5,7 +5,7 @@
 <br> 
 <div >
   <ul>    
-    <li>🔭 Soy egresado en Ingeniería en computación y sistemas</li>
+    <li>👨‍🎓 Soy egresado en Ingeniería en computación y sistemas</li>
     <li>🔭 Actualmente estoy buscando trabajo</li>
     <li>👯 Yo estoy buscando un equipo para colaborar</li>
   </ul>
