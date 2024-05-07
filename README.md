@@ -4,10 +4,10 @@
 </div>
 <br> 
 <div >
-  <ul>
-    <li>🔭 I’m currently looking for work</li>
-    <li>🌱 I’m currently learning Django</li>
-    <li>👯 I’m looking to collaborate on team</li>
+  <ul>    
+    <li>🔭 Soy egresado en Ingeniería en computación y sistemas</li>
+    <li>🔭 Actualmente estoy buscando trabajo</li>
+    <li>👯 Yo estoy buscando un equipo para colaborar</li>
   </ul>
 </div>
 
