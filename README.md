@@ -1,8 +1,7 @@
-<div align="center" style="display: flex; align-items: center;>
-  <h1 align="center" style="display: flex; align-items: center;">Hola soy,  <a href="https://pedro-molinanoa.vercel.app/" style="display: inline-block; vertical-align: middle;"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&width=600&lines=Pedro+Molina..&hearts;++;Full-Stack+Developer-End+Developer,;Ingeniero+en+Sistemas" style="vertical-align: middle;" alt="Pedro Molina"></a></h1>
-  <img src="https://i.pinimg.com/736x/ca/c1/46/cac1467f7ff2c5bd487ca610b71a5b4c.jpg" alt="Foto de Pedro Molina">
+<div align="center">
+  <h1 align="center">Hola soy, <a href="https://pedro-molinanoa.vercel.app/">Pedro Molina</a></h1>
+  <img src="https://i.pinimg.com/736x/ca/c1/46/cac1467f7ff2c5bd487ca610b71a5b4c.jpg"/>
 </div>
-
 <br> 
 <div >
   <ul>    
